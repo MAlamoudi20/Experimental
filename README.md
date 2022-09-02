@@ -1,9 +1,4 @@
 # Experimental
-Testing New features within a repository
 
-# Hello 
-## I am getting 
+#### Exploring new features within a repository
 
-### smaller and 
-
-#### smaller 
