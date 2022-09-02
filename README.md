@@ -1,5 +1,5 @@
 # Experimental
-Testing New features within a repository. 
+Testing New features within a repository
 
 # Hello 
 ## I am getting 
